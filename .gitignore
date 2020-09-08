@@ -1,0 +1,7 @@
+
+*.json
+*.xml
+*.yaml
+*.iml
+.env
+.idea/$PRODUCT_WORKSPACE_FILE$
